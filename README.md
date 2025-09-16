@@ -9,7 +9,7 @@ Florida International University Qiskit Fallfest 2025
 ## What is Fall Fest?
 The Qiskit [kiss-kit] Fall Fest is a mixture of hackathons, challenges, and workshops related to quantum computing, held at various universities around the world. We are proud to be one of the 55 Universities that have been selected to be supported by IBM Quantum and their quantum software development kit, Qiskit.
 
-Our Fall Fest event will involve tutorials, presentations, guided challenges & workshops. It will be held in-person on the Florida International University campus in Miami, FL, from November Friday 6PM ET through Sunday 3pm ET. Agenda details (specific times and locations) will be posted here as speakers confirm, so keep checking back. All guided challenges will be written in Python using Qiskit and shared with participants.
+Our Fall Fest event will involve tutorials, presentations, guided challenges & workshops. It will be held in-person on the Florida International University campus in Miami, FL. 
 
 ## Who is this event for? 
 This event is for everyone, whether you have never heard of quantum computing or you are a seasoned developer or researcher, there will be something for everyone. 
@@ -17,6 +17,9 @@ There will be both technical tracks as well as business tracks, for those who ar
 
 ## How to Participate
 To recieve the most up to date information on the FIU Fall Fest 2025. Click on the [(registration link here!)](https://airtable.com/app4Zu9ZdqtYmu3zk/shrEHSbiZJlqB5lRj) 
+
+## When will the events take place?
+Events will take place from November (TBD) Friday 6PM ET through November (TBD) Sunday 3pm ET. Agenda details (specific dates/times and locations) will be posted here as speakers confirm, so keep checking back. All guided challenges will be written in Python using Qiskit and shared with participants.
 
 ## Location
 Event will take place in the new **Innovation Center** building at the FIU Main Campus in Miami, FL. 

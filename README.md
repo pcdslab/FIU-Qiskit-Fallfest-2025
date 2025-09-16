@@ -78,7 +78,8 @@ Welcome / Opening remarks
 
 Time: 10:00 AM - 11:00 AM
 
-### Hackathon presentations
+### Participant presentations
+Details regarding deliverables could be any project proposed or description of quantum potentials in areas of interest.
 
 11:00 AM - 12:00 PM
 

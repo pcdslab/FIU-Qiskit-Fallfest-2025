@@ -1,5 +1,5 @@
-![IBM Quantum logo][IBM_Quantum_logo]
-![Qiskit logo][bloch_shere_logo]
+<!-- ![IBM Quantum logo][ibm_quantum_logo] -->
+![Qiskit logo][bloch_sphere_logo]
 
 
 # FIU Qiskit Fall Fest 2025

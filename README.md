@@ -1,3 +1,7 @@
+![IBM Quantum logo][IBM_Quantum_logo]
+![Qiskit logo][bloch_shere_logo]
+
+
 # FIU Qiskit Fall Fest 2025
 Florida International University Qiskit Fallfest 2025 
 
@@ -16,7 +20,9 @@ To recieve the most up to date information on the FIU Fall Fest 2025. Click on t
 
 ## Location
 Event will take place in the new **Innovation Center** building at the FIU Main Campus in Miami, FL. 
+
 **Address:** Modesto A. Maidique Campus:  11200 SW 8th Street Miami, Florida 33199
+
 **Campus Map**: [https://campusmaps.fiu.edu/index.html#/campus/MMC]{https://campusmaps.fiu.edu/index.html#/campus/MMC}
 
 
@@ -99,3 +105,8 @@ Time: After final results
 
 ## Entangled Solutions Group
 *"Committed to pioneering business technology innovations that transform industries. With over 25 years of experience, our team continuously adapts to emerging trends, delivering comprehensive consulting services designed to optimize your operations and accelerate success with AI or quantum computing. Reach out to us to explore how we can partner and discover your future in computing."* - Robert Loredo (CEO/Founder), [https://entangledsolutionsgroup.com/](https://entangledsolutionsgroup.com/)
+
+
+
+[ibm_quantum_logo]: https://github.com/pcdslab/FIU-Qiskit-Fallfest-2025/blob/main/images/IBM_Quantum_Logo.png
+[bloch_sphere_logo]: https://github.com/pcdslab/FIU-Qiskit-Fallfest-2025/blob/main/images/Qiskit_BlochSphere.png
